@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  color: blue;
+}
+
+th {
+  background-color: cornflowerblue;
+}
+
+td {
+  border: .5px solid darkblue;
+}
+
+table {
+  border: 2px solid darkblue;
+  width: 650px;
+  margin: 0 auto;
+  background-color: aliceblue;
+}
+
+body {
+  font-family: Verdana, sans-seri";
+}
